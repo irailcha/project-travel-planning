@@ -1,0 +1,28 @@
+{
+  "name": "project-travel-planning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irailcha/project-travel-planning.git"
+  },
+  "author": "Iryna Karpusenko karpusenko.irina.13@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irailcha/project-travel-planning/issues"
+  },
+  "homepage": "https://github.com/irailcha/project-travel-planning#readme",
+  "description": "",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.2",
+    "vite": "^4.5.5"
+  }
+}
